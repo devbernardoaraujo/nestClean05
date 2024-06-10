@@ -1,1 +1,1 @@
-Estudos sobre o framework Nest, (testes e2e, prisma service, token JWT)
+testes e2e com o framework Nest do Typescript, e geração de token jwt
